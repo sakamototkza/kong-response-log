@@ -2,7 +2,7 @@ package = "kong-resnponse-log"
 version = "0.0.1-1"
 supported_platforms = {"linux", "macosx"}
 source = {
-  url = "git://github.com/sakamototkza/kong-response-log.git",
+  url = "git://github.com/sakamototkza/kong-response-log",
 }
 description = {
   summary = "Kong Plugin for Response Log",
