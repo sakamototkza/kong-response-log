@@ -1,4 +1,4 @@
-package = "kong-resnponse-log"
+package = "kong-response-log"
 version = "0.0.1-1"
 supported_platforms = {"linux", "macosx"}
 source = {
